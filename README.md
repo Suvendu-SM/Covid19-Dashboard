@@ -6,4 +6,4 @@ This apk used an API from RapidAPI
 
 # Images
 
-![alt text](https://github.com/[Suvendu-SM]/[Covid19-tracker]/blob/[main]/ic_launcher.png?raw=true)
+![Optional Text](../main/res/mipmap-hdpi/image1.png)
