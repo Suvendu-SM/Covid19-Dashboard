@@ -111,8 +111,8 @@ public class India_Detail extends Fragment {
                                 .url("https://covid-19-statistics.p.rapidapi.com/reports?region_province="
                                         + mProvinces[position] + "&iso=IND&region_name=India&date=" + mDate.getText()
                                         + "&q=India")
-                                .get().addHeader("x-rapidapi-key", "d38a237f8ms8da2d7030ea7fe1d9601snc85ec0ea0")// modified
-                                                                                                                // key
+                                .get().addHeader("x-rapidapi-key", "d38a237f8s82d703ea7fd9601snc85ec0a")// modified
+                                                                                                        // key
                                 .addHeader("x-rapidapi-host", "covid-19-statistics.p.rapidapi.com").build();
                         try {
                             Response response = client.newCall(request).execute();
@@ -205,8 +205,8 @@ public class India_Detail extends Fragment {
                                 .url("https://covid-19-statistics.p.rapidapi.com/reports?region_province="
                                         + mProvinces[mPosition] + "&iso=IND&region_name=India&date=" + mDate.getText()
                                         + "&q=India")
-                                .get().addHeader("x-rapidapi-key", "d38a237f8ms8da2d7030ea7fe1d9601snc85ec0ea0")// modified
-                                                                                                                // key
+                                .get().addHeader("x-rapidapi-key", "d38a237f8s82d703ea7fd9601snc85ec0a")// modified
+                                                                                                        // key
                                 .addHeader("x-rapidapi-host", "covid-19-statistics.p.rapidapi.com").build();
                         try {
                             Response response = client.newCall(request).execute();
