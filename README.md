@@ -6,4 +6,4 @@ This apk used an API from RapidAPI
 
 # Images
 
-![Optional Text](../main/res/mipmap-hdpi/image1.png)
+![Optional Text](../main/res/mipmap-hdpi/image1.jpg)
