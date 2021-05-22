@@ -1,4 +1,4 @@
-# Covid19-tracker
+# Covid19-Dashboard
 
 # About
 This is a simple android apk where users can check the status of covid of any country.
